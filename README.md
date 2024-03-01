@@ -1,6 +1,6 @@
 # Webex Spaces Exporter
 
-This Python script retrieves a list of Webex spaces that the user is a member of and generates two files: `WebexSpaces.txt` and `WebexSpaces.csv`, containing the names of the spaces and links to them in plain text and CSV format, respectively.
+This Python script retrieves a list of Webex spaces that the user is a member of and generates two files: `WebexSpaces.txt` and `WebexSpaces.csv`, containing the names of the spaces and links to them in plain text and tab-delineated CSV format, respectively.
 
 ## Prerequisites
 
