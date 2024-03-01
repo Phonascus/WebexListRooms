@@ -21,7 +21,7 @@ This Python script retrieves a list of Webex spaces that the user is a member of
 
 3. Update the script with your Webex access token.
 Open the script in a text editor and replace `'YOUR_PERSONAL_ACCESS_TOKEN'` with your actual Webex access token.\
-You can get a personal Webex API access token by loggin in to the [Webex Developer Portal](https://developer.webex.com/docs/getting-started).
+You can get a personal Webex API access token by logging in to the [Webex Developer Portal](https://developer.webex.com/docs/getting-started).
 
 ## Usage
 
