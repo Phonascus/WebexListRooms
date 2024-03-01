@@ -11,10 +11,12 @@ This Python script retrieves a list of Webex spaces that the user is a member of
 ## Setup
 
 1. Clone the repository to your local machine.
-git clone https://github.com/your-username/webex-spaces-exporter.git cd webex-spaces-exporter
+git clone https://github.com/your-username/webex-spaces-exporter.git 
+`cd webex-spaces-exporter`
 
 2. Install the required Python packages.
-pip install requests
+`pip install requests
+pip install base64`
 
 3. Update the script with your Webex access token.
 Open the script in a text editor and replace `'YOUR_PERSONAL_ACCESS_TOKEN'` with your actual Webex access token.
@@ -22,7 +24,7 @@ Open the script in a text editor and replace `'YOUR_PERSONAL_ACCESS_TOKEN'` with
 ## Usage
 
 Run the script from the command line:
-python export_webex_spaces.py
+`python export_webex_spaces.py`
 
 
 After execution, the script will create two files in the current directory:
